@@ -7,10 +7,10 @@ Designed for building scalable backend services with clear separation of concern
 
 ## 🚀 Features
 
-- **Node.js + TypeScript** — modern, strongly typed backend foundation  
-- **Express** — minimal and flexible API routing  
-- **Knex.js** — SQL query builder (supports MySQL, PostgreSQL, SQLite, and more)  
-- **Zod** — schema validation + DTO enforcement  
+- **Node.js + TypeScript** - modern, strongly typed backend foundation  
+- **Express** - minimal and flexible API routing  
+- **Knex.js** - SQL query builder (supports MySQL, PostgreSQL, SQLite, and more)  
+- **Zod** - schema validation + DTO enforcement  
 - **Clean Architecture**  
   - Routes  
   - Controllers  
