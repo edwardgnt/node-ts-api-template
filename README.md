@@ -70,22 +70,22 @@ cd node-ts-api-template
 
 ```
 
-Install dependencies:
+Install dependencies:<br />
     npm install
 
 
-Copy environment file:
+Copy environment file:<br />
     cp .env.example .env
 
 
-Server runs at:
+Server runs at:<br />
     http://localhost:5001
 
-Production Build
+Production Build <br />
     npm run build
     npm start
 
-Example Endpoint
+Example Endpoint<br />
     GET /api/example
 
 Response:
