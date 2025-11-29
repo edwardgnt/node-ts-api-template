@@ -65,7 +65,7 @@ package.json
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/node-ts-api-template.git
+git clone https://github.com/edwardgnt/node-ts-api-template.git
 cd node-ts-api-template
 
 ```
